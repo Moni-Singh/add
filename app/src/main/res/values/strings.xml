@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">add</string>
+
+        <!--    For Quotes-->
+        <string name="text_quotes">Lorem ipsum dolor sit amet consectetur. Interdum pellentesque purus dignissim vulputate blandit bibendum ipsum faucibus mauris.</string>
+
+        <!--    For Name-->
+        <string name="text_name">~ Name</string>
+        <!--    For Greeting-->
+        <string name="text_greet">Good Morning John !</string>
+        <string name="text_bot">I\'m Ginny, \nyour personal virtual assistant.</string>
+
+        <string name="text_recommend">Recommended Options for you. Simply select one from below:</string>
+
+        <string name="text_bot_first_msg">Hey John! where need to travel?</string>
+        <string name="from"><b>From: </b></string>
+        <string name="To"><b>To:</b></string>
+        <string name="Departure_Date"><b>Departure Date :</b></string>
+        <string name="Arrival_Date"><b>Arrival Date:</b></string>
+        <string name="Return_date">Return : </string>
+        <string name="Departure_From">Depart From:</string>
+        <string name="add_return_date">Add Return Date: </string>
+        <string name="Add_City">Add City</string>
+
+        //For Greeting Activity
+        <string name="Gbot">Gbot</string>
+        <string name="greet">Good Morning John!</string>
+        //For Button
+
+        <string name="Apply_Leave">Apply Leave</string>
+        <string name="Apply_WFM">Apply WFH</string>
+        <string name="Request_Hardware">Request Hardware</string>
+        <string name="Reimbursement">Reimbursement</string>
+        <string name="Holiday_list">Holiday List</string>
+        <string name="Travel_desk">Travel Desk</string>
+        <string name="Register_Query">Register Query</string>
+        <string name="My_Queries">My Queries</string>
+        <string name="More_Options">MORE OPTIONS</string>
+
+        <string name="international">International</string>
+        <string name="domestic">Domestic</string>
+
+
+</resources>
